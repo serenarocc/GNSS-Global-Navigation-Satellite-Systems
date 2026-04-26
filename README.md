@@ -1,6 +1,6 @@
 # GNSS Vulnerability and Performance Analysis
 
-This project is a study conducted at the **Politecnico di Torino** regarding the vulnerabilities of Global Navigation Satellite Systems (GNSS) and their management in real-world scenarios.
+This project is a study conducted at the **Politecnico di Torino** regarding the vulnerabilities of Global Navigation Satellite System (GNSS) and their management in real-world scenarios.
 
 ---
 
