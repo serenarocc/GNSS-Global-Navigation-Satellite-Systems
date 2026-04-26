@@ -34,4 +34,4 @@ The study highlights how spoofing represents a severe threat, especially for inf
 
 ---
 
-[cite_start]*Politecnico di Torino*.
+*Politecnico di Torino*.
