@@ -31,7 +31,3 @@ The spoofing attack was successful in diverting the position reported by the dev
 
 ##  Conclusions
 The study highlights how spoofing represents a severe threat, especially for infrastructures that rely on high-precision GNSS timing. 
-
----
-
-*Politecnico di Torino*.
